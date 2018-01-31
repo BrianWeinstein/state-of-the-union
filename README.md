@@ -2,9 +2,9 @@
 State of the Union Transcripts (1790 – 2018)
 ==========
 
-This repo contains transcripts for all State of the Union (SOTU) addresses between George Washington's first address on Jan 8, 1790, through Donald Trump's address on Jan 30, 2018.
+This repo contains transcripts from every State of the Union (SOTU) address; between George Washington's first address on Jan 8, 1790, through Donald Trump's address on Jan 30, 2018.
 
-The datasets also contains transcripts for SOTU addresses that are technically "Address Before a Joint Session of the Congress" (see an explanation [here](http://www.presidency.ucsb.edu/sou.php)).
+The datasets also contains transcripts for addresses that aren't technically SOTU addresses, but are instead considered "Address Before a Joint Session of the Congress" (see an explanation [here](http://www.presidency.ucsb.edu/sou.php)).
 
 
 Sources
